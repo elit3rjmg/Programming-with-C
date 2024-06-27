@@ -9,9 +9,7 @@ double trigoRatio(double angle) {
     cosine = cos(angle);
     tangent = tan(angle);
 
-    printf("sin(x): %f\ncos(x): %f\ntan(x): %f\n", sine,cosine,tangent); 
-
-    
+    printf("sin(x): %f\ncos(x): %f\ntan(x): %f\n", sine,cosine,tangent);   
 }
 
 int main() {
